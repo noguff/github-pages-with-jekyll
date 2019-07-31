@@ -1,10 +1,8 @@
-title: Your awesome title
-author: GitHub User
-email: your-email@domain.com
+title: No Guff Studio
+author: Bubba McGuff
+email: noguffstudio@gmail.com 
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+ My project is based on the assumption that a market exists for hand printed artwork with a unique aesthetic that screen printing can offer. We can print short runs of art editions, posters, greeting cards, postcards, etc. using thick paper, coloured paper, bright solid ink coverage, metallics, overlapping, and halftones creatively, for example.
 
 # social links
 twitter_username: your-twitter-handle
